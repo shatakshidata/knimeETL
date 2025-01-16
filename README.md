@@ -1,6 +1,6 @@
 ### **BONK-SOL Token Ecosystem Analysis**
-Link to the project - https://hub.knime.com/s/P28YvhAYuwxHmyiJ
 Objective: Enhance market liquidity and optimize trading behaviors in the BONK-SOL ecosystem.
+[Link to the project] - https://hub.knime.com/s/P28YvhAYuwxHmyiJ
 
 #### Key Insights:
 - **Activity Peaks**: Significant activity at 10:00 UTC and 18:00 UTC, maximizing engagement during global market overlaps.
